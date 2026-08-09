@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "월요일 파쇄소",
+  "short_name": "월요일 파쇄소",
+  "description": "신문지를 찢고, 수박을 깨고, 키캡과 뽁뽁이를 누르며 월요일의 스트레스를 푸는 감각적인 미니게임입니다.",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#26262b",
+  "theme_color": "#26262b",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
